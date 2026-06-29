@@ -1,1 +1,6 @@
-# Core dependencies\nrequests==2.31.0\nPyGithub==2.1.1\npython-dotenv==1.0.0\n\n# Agent and AI\nanthropic==0.7.0\nlangchain==0.0.350\n\n# Code analysis\nast==0.0.0\nflake8==6.1.0\nblack==23.12.0\npylint==3.0.3\n\n# Testing\npytest==7.4.3\npytest-cov==4.1.0\npytest-asyncio==0.21.1\n\n# Data handling\npydantic==2.5.0\npyyaml==6.0.1\njsonschema==4.20.0\n\n# Logging and monitoring\nloguru==0.7.2\n\n# Utilities\nclick==8.1.7\ntabulate==0.9.0\ncolorama==0.4.6\n
+PyGithub==2.1.1
+requests==2.31.0
+python-dotenv==1.0.0
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-asyncio==0.21.1
